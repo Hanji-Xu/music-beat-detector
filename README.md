@@ -1,5 +1,7 @@
 # music-beat-detector
 
+[![Run on Repl.it](https://repl.it/badge/github/chrvadala/music-beat-detector)](https://repl.it/github/chrvadala/music-beat-detector)
+
 **music-beat-detector** is a library that analyzes a music stream and detects any beat. It can be used to control lights or any magic effect by the music wave.
 
 [![npm](https://img.shields.io/npm/v/music-beat-detector.svg?maxAge=2592000?style=plastic)](https://www.npmjs.com/package/music-beat-detector)
